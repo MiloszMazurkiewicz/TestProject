@@ -1,1 +1,6 @@
 // comment
+
+class file1 {
+	
+	
+}
